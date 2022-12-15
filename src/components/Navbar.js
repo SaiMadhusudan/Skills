@@ -14,7 +14,7 @@ export default function Navbar() {
                 <li className='p-4 underline hover:underline-offset-8 font-Import2 decoration-black hover:decoration-white'> <a href="https://saiwebsiteabout.onrender.com">About</a></li>
                 <li className='p-4 underline hover:underline-offset-8 font-Import2 decoration-black hover:decoration-white'> <a href="/">Skills</a></li>
                 <li className='p-4 underline hover:underline-offset-8 font-Import2 decoration-black hover:decoration-white'> <a href="https://resume.io/r/U0C2NLu8y">Resume</a></li>
-                <li className='p-4 underline hover:underline-offset-8 font-Import2 decoration-black hover:decoration-white'> <a href="https://saiwebsitesconnect.onrender.com">Connect</a></li>
+                <li className='p-4 underline hover:underline-offset-8 font-Import2 decoration-black hover:decoration-white'> <a href="https://saiwebsiteconnect.onrender.com/">Connect</a></li>
             </div>
         </div>
         </div>
