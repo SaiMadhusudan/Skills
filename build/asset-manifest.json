@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/W2/static/css/main.11298f70.css",
+    "main.js": "/W2/static/js/main.9e1586e6.js",
+    "static/js/787.633816a4.chunk.js": "/W2/static/js/787.633816a4.chunk.js",
+    "static/media/q3.jpg": "/W2/static/media/q3.b8e65ceb2051043e6111.jpg",
+    "static/media/q.jpg": "/W2/static/media/q.df03d96b624f930c86a1.jpg",
+    "static/media/sai.png": "/W2/static/media/sai.69bdf8aa8df1a84bcf79.png",
+    "static/media/q2.jpg": "/W2/static/media/q2.d642c869d21193d33569.jpg",
+    "static/media/css3.png": "/W2/static/media/css3.73acd7800977d1da05ad.png",
+    "static/media/C++.svg.png": "/W2/static/media/C++.svg.64f637357bce0ccc8384.png",
+    "static/media/node.png": "/W2/static/media/node.0c01f79a06426f79a734.png",
+    "static/media/html5.png": "/W2/static/media/html5.7e46d8daedb02ba20feb.png",
+    "static/media/Csvg.png": "/W2/static/media/Csvg.c0da8156a8d17281c29e.png",
+    "static/media/jquery.png": "/W2/static/media/jquery.3a66d6f11aa76bdc0908.png",
+    "static/media/python.png": "/W2/static/media/python.2e65c2b73eddaaf97e06.png",
+    "static/media/sql.png": "/W2/static/media/sql.9c847d6e55d11c2dfd64.png",
+    "static/media/arduino.png": "/W2/static/media/arduino.e91077964f0d2f050d37.png",
+    "static/media/mongodb.png": "/W2/static/media/mongodb.3d4059f4fac3bd362f8d.png",
+    "static/media/git.png": "/W2/static/media/git.140fa4d62c3584333da4.png",
+    "static/media/js.png": "/W2/static/media/js.2e10b2a247e94504d12c.png",
+    "static/media/linkedin.png": "/W2/static/media/linkedin.d21b834035baa551e886.png",
+    "static/media/github.png": "/W2/static/media/github.05f6c17b8cd04c28456f.png",
+    "static/media/gmail.png": "/W2/static/media/gmail.a2f2146f929409405da0.png",
+    "static/media/logo.svg": "/W2/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/W2/index.html",
+    "main.11298f70.css.map": "/W2/static/css/main.11298f70.css.map",
+    "main.9e1586e6.js.map": "/W2/static/js/main.9e1586e6.js.map",
+    "787.633816a4.chunk.js.map": "/W2/static/js/787.633816a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11298f70.css",
+    "static/js/main.9e1586e6.js"
+  ]
+}
